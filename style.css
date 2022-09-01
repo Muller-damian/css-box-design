@@ -1,0 +1,40 @@
+#password {
+    width: auto;
+    margin: 0px;
+    padding: 5px 45px;
+}
+#email {
+    width: auto;
+    margin: 0px;
+    border: 0px;
+    padding: 5px 45px;
+    
+}
+.number-one {
+    
+    border: 8px solid brown;
+    background-color: burlywood;
+    width: 300px;
+    padding-left: 50px;
+    margin: 40px;
+}
+.type3 {
+    
+   /* padding-bottom: 10px;*/
+    border: 30px;
+    padding: 10px 120px;
+    border-color: brown;
+    background-color: lightcoral ;
+}
+.number-two {
+    background-color: burlywood;
+    width: 300px;
+    border: 10px solid brown;
+    padding: 50px;
+    margin: 20px;
+} 
+h1 {
+    color: brown;
+    font-size: 20px;
+    font-family: sans-serif;
+}
